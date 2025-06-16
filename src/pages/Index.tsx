@@ -88,7 +88,7 @@ const Index = () => {
 
         {/* Footer */}
         <footer className="mt-16 text-center text-gray-600">
-          <p>© 2024 Academic Ace Calculator. Helping students excel in their academic journey.</p>
+          <p>© 2025 Balamurugan.</p>
         </footer>
       </div>
     </div>
